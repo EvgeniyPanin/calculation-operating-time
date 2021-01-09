@@ -11,8 +11,9 @@ import DateFnsUtils from "@date-io/date-fns";
 import Container from "./components/Container";
 import { facilities } from "./constants/facilities";
 import { formattedDate } from "./utils/formattedData";
-import {useStyles} from './styles';
-import {config} from './constants/config';
+import {sortFacilities} from "./utils/sortFacilities";
+import { useStyles } from "./styles";
+import { config } from "./constants/config";
 
 function App() {
   const classes = useStyles();
@@ -46,7 +47,7 @@ function App() {
               }}
               label={config.selectTitle}
             >
-              {facilities.map((facility) => {
+              {facilities.sort(sortFacilities).map((facility) => {
                 return (
                   <MenuItem key={facility.id} value={facility.id}>
                     {facility.name}
