@@ -25,7 +25,7 @@ export const useStyles = makeStyles((theme) => ({
     fontSize: 18,
   },
   contentContainer: {
-    minHeight: "11vw",
+    minHeight: "160px",
     display: "flex",
     flexDirection: "column",
     justifyContent: "space-between",
