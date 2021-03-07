@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calculation-operating-time/static/css/main.9f241aa0.chunk.css",
-    "main.js": "/calculation-operating-time/static/js/main.60ee8274.chunk.js",
-    "main.js.map": "/calculation-operating-time/static/js/main.60ee8274.chunk.js.map",
-    "runtime-main.js": "/calculation-operating-time/static/js/runtime-main.79358516.js",
-    "runtime-main.js.map": "/calculation-operating-time/static/js/runtime-main.79358516.js.map",
-    "static/js/2.a4be9191.chunk.js": "/calculation-operating-time/static/js/2.a4be9191.chunk.js",
-    "static/js/2.a4be9191.chunk.js.map": "/calculation-operating-time/static/js/2.a4be9191.chunk.js.map",
-    "static/js/3.548bdfec.chunk.js": "/calculation-operating-time/static/js/3.548bdfec.chunk.js",
-    "static/js/3.548bdfec.chunk.js.map": "/calculation-operating-time/static/js/3.548bdfec.chunk.js.map",
+    "main.css": "/calculation-operating-time/static/css/main.7ad19328.chunk.css",
+    "main.js": "/calculation-operating-time/static/js/main.f81b31e0.chunk.js",
+    "main.js.map": "/calculation-operating-time/static/js/main.f81b31e0.chunk.js.map",
+    "runtime-main.js": "/calculation-operating-time/static/js/runtime-main.db0d59b3.js",
+    "runtime-main.js.map": "/calculation-operating-time/static/js/runtime-main.db0d59b3.js.map",
+    "static/js/2.4ebc1184.chunk.js": "/calculation-operating-time/static/js/2.4ebc1184.chunk.js",
+    "static/js/2.4ebc1184.chunk.js.map": "/calculation-operating-time/static/js/2.4ebc1184.chunk.js.map",
+    "static/js/3.9395eb85.chunk.js": "/calculation-operating-time/static/js/3.9395eb85.chunk.js",
+    "static/js/3.9395eb85.chunk.js.map": "/calculation-operating-time/static/js/3.9395eb85.chunk.js.map",
     "index.html": "/calculation-operating-time/index.html",
-    "static/css/main.9f241aa0.chunk.css.map": "/calculation-operating-time/static/css/main.9f241aa0.chunk.css.map",
-    "static/js/2.a4be9191.chunk.js.LICENSE.txt": "/calculation-operating-time/static/js/2.a4be9191.chunk.js.LICENSE.txt"
+    "static/css/main.7ad19328.chunk.css.map": "/calculation-operating-time/static/css/main.7ad19328.chunk.css.map",
+    "static/js/2.4ebc1184.chunk.js.LICENSE.txt": "/calculation-operating-time/static/js/2.4ebc1184.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.79358516.js",
-    "static/js/2.a4be9191.chunk.js",
-    "static/css/main.9f241aa0.chunk.css",
-    "static/js/main.60ee8274.chunk.js"
+    "static/js/runtime-main.db0d59b3.js",
+    "static/js/2.4ebc1184.chunk.js",
+    "static/css/main.7ad19328.chunk.css",
+    "static/js/main.f81b31e0.chunk.js"
   ]
 }
